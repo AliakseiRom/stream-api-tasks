@@ -1,6 +1,6 @@
-package taskAfter6.task8;
+package taskBetween5And11.task8;
 
-import taskAfter6.Person;
+import taskBetween5And11.Person;
 
 import java.util.List;
 import java.util.Map;

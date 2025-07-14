@@ -1,6 +1,6 @@
-package taskAfter6.task7;
+package taskBetween5And11.task7;
 
-import taskAfter6.Person;
+import taskBetween5And11.Person;
 
 import java.util.Comparator;
 import java.util.List;

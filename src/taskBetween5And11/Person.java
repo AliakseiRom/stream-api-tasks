@@ -1,4 +1,4 @@
-package taskAfter6;
+package taskBetween5And11;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,8 +36,6 @@ public class Person {
         persons.add(new Person("Jane", 16));
         persons.add(new Person("Bob", 17));
         persons.add(new Person("Jack", 12));
-        persons.add(new Person("Jane", 11));
-        persons.add(new Person("Jack", 18));
         return persons;
     }
 

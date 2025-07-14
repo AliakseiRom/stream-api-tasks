@@ -1,6 +1,6 @@
-package taskAfter6.task10;
+package taskBetween5And11.task10;
 
-import taskAfter6.Person;
+import taskBetween5And11.Person;
 
 import java.util.List;
 import java.util.OptionalDouble;
